@@ -177,3 +177,4 @@ C:\proyectos\PdfProcessingApi\PdfProcessingApi\obj\Debug\net8.0\refint\PdfProces
 C:\proyectos\PdfProcessingApi\PdfProcessingApi\obj\Debug\net8.0\PdfProcessingApi.pdb
 C:\proyectos\PdfProcessingApi\PdfProcessingApi\obj\Debug\net8.0\PdfProcessingApi.genruntimeconfig.cache
 C:\proyectos\PdfProcessingApi\PdfProcessingApi\obj\Debug\net8.0\ref\PdfProcessingApi.dll
+C:\proyectos\PdfProcessingApi\PdfProcessingApi\obj\Debug\net8.0\PdfProcessingApi.sourcelink.json

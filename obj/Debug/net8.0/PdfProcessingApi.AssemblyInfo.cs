@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PdfProcessingApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca5d9ff6c88ef83f507b261c51ef18985f57290c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbde673dd3b5cd7853f6c3dc6ce51eac89bdd302")]
 [assembly: System.Reflection.AssemblyProductAttribute("PdfProcessingApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PdfProcessingApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
